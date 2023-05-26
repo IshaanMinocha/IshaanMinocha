@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IshaanMinocha
 - 👀 I’m interested in Web Development, 3D Modeling, Graphic Design, Video/Photo Editing and various other technical fields.
-- 🌱 I’m currently learning C++ with Data Structure and Algorithms
+- 🌱 I’m currently learning JAVA with Data Structure and Algorithms
 - 💞️ I’m looking to collaborate on different web development projects and open source.
 - 📫 How to reach me:- E-Mail: [minochaishaan2003@gmail.com](mailto:minochaishaan2003@gmail.com) / Instagram: [gameblurr](https://www.instagram.com/gameblurr/) / LinkedIn: [Ishaan MInocha](https://www.linkedin.com/in/ishaan-minocha-785779250/)
